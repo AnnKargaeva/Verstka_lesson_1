@@ -1,0 +1,45 @@
+a {
+   text-decoration: none;
+}
+body{
+   background-color: navajowhite;
+   font-family: sans-serif;
+}
+
+.style-h1{
+   color: #c42f2f;
+   font-size: 28px;
+   line-height: 36px;
+   font-weight: bold;
+}
+
+.menu_style{
+   color: rgb(173, 19, 27);
+}
+
+.main_p {
+   font-style: normal;
+   font-weight: 300;
+   font-size: 18px;
+   line-height: 30px;
+   color: #7D7987
+}
+
+.style-h2{
+   color: coral;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 80px;
+}
+
+.element{
+   border: 5px solid #e74219;
+   border-radius: 20px;
+   padding: 20px;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 90px;
+   font-family: Gill Sans Extrabold;
+}
+
